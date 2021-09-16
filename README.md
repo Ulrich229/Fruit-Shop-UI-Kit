@@ -1,16 +1,7 @@
-# vegan
+# Fruits Shop App UI Kit
 
-A new Flutter project.
+A project inspired by a the UI on https://www.instagram.com/p/CQGL2h3onA2/?utm_source=ig_web_copy_link.
 
-## Getting Started
+##ScreenShots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/68822685/133702048-3e6278fd-39b3-4de6-af5b-1a1e8089794f.jpg" width="200" height="400" /> <img src="https://user-images.githubusercontent.com/68822685/133702053-1a413419-d102-43e9-9cec-e3f964eac5d9.jpg" width="200" height="400" />
